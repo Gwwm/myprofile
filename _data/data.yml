@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -38,6 +38,18 @@ sidebar:
       - idiom: Chinese
         level: Native
 
+  languages:
+    title: Programming
+    info:
+      - idiom: Python
+        level: Numpy, Pandas  
+
+      - idiom: Javascript
+        level: React, Web3.js, Node.js
+
+      - idiom: Solidity
+        level: ERC20, ERC721
+
   interests:
     title: Interests
     info:
@@ -48,6 +60,9 @@ sidebar:
         link:
 
       - item: Writing
+        link:
+
+      - item: NLP
         link:
 
 career-profile:
@@ -92,33 +107,12 @@ experiences:
         - Spearheaded from conception to launch of Project Loaded Lion (Crypto.com’s flagship NFT collection) by building product roadmaps from scratch, designing the structure of the DAO, and kicking off its derivatives, resulting in over $47M traded volume.
         - Steered content moderation initiatives for Crypto.com NFT marketplace including content blacklisting, IP auto screening, and NFT copyright management systems that reduced 95% (US$3M+/per month) in company costs for NFT refunds.
 
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-    - name: Product & Project Management
-      level: 95%
-
-    - name: Python
-      level: 80%
-
-    - name: Javascript
-      level: 80%
-
-    - name: Solidity
-      level: 80%
-
-    - name: HTML5 & CSS
-      level: 80%
-
-    - name: Linear Algebra, Probability, and Statistics
-      level: 85%
-
-    - name: Video Content Creation
-      level: 95%
-
-    - name: Content Marketing
-      level: 95%
+    - role: Project Manager
+      time: 2018 - 2021
+      company: 3 Rices Ltd. /Hong Kong
+      details: |
+        - Coordinated product consultancy projects between our B2B clients, external marketing & design studios, and internal engineering teams for 3 Rices Limited, a tech consultancy company with clients such as Hong Kong Hospital Authority, Education Bureau, Samsonite, Estee Lauder, and Philips.
+        - Defined product strategy and success metrics for our clients and conducted data instrumentation and analysis to ensure each client reaches its goals and objectives
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
