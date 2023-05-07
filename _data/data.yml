@@ -29,20 +29,20 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf:
 
-  languages:
-    title: Languages
-    info:
-      - idiom: English
-        level: Professional
+  # languages:
+  #   title: Languages
+  #   info:
+  #     - idiom: English
+  #       level: Professional
 
-      - idiom: Chinese
-        level: Native
+  #     - idiom: Chinese
+  #       level: Native
 
   languages:
     title: Programming
     info:
       - idiom: Python
-        level: Numpy, Pandas  
+        level: Numpy, Pandas
 
       - idiom: Javascript
         level: React, Web3.js, Node.js
@@ -87,9 +87,9 @@ experiences:
       company: Binance.US, Vancouver BC
       details: |
 
-        - Product owner of Binance.US' domain product, featuring Unstoppable Domain to support more than 120 tokens. Built the premium sales system and revamped the deposit and withdrawal resolution of centralized exchange. PRD technical API requirements – set API to communicate with blockchain, utilize API services from Unstoppable Domain. 
+        - Product owner of Binance.US Crypto Domains, featuring Unstoppable Domain to support more than 120 tokens. Built the premium sales system and revamped the deposit and withdrawal resolution of centralized exchange. PRD technical API requirements – set API to communicate with blockchain, utilize API services from Unstoppable Domain. 
         - Worked with Data Team to apply their different price-sensitivity classification algorithms for Crypto-Withdrawal to determine the withdrawal fees. Launched the model with A/B testing, leading to 120% increase in revenue with less than 1% change to user behavior. Increase annual revenue by $5M (projection).
-        - Product requirements for App NFT Wallet Page, Collection Page, Detail Page, Backend Portal to manage NFT minting, Sales Events. Revamped NFT database and infrastructures.
+        - Product requirements for App NFT Wallet Page, Collection Page, Detail Page, Backend Portal to manage NFT minting, Sales Events. Revamped NFT database and infrastructures. Launched the CR7 NFT Collection, the first NFT sale at Binance.US and record over $130k revenue.
         - App UI Revamp on Domain Name Service
 
     - role: Co-Founder
