@@ -29,90 +29,94 @@ sidebar:
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf:
 
-  # languages:
-  #   title: Languages
-  #   info:
-  #     - idiom: English
-  #       level: Professional
-
-  #     - idiom: Chinese
-  #       level: Native
-
   languages:
-    title: Programming
+    title: Skills
     info:
-      - idiom: Python
-        level: Numpy, Pandas
+      - idiom: Product Management
+        level: Agile/Scrum, A/B Testing, User Research, Figma
 
-      - idiom: Javascript
-        level: React, Web3.js, Node.js
+      - idiom: Technical Proficiency
+        level: Python, JavaScript, SQL
 
-      - idiom: Solidity
-        level: ERC20, ERC721
+      - idiom: Languages
+        level: English, Chinese
 
   interests:
     title: Interests
     info:
-      - item: Blockchain Technology
+      - item: Blockchain Technology (Layer 2), Defi, NFT
         link:
 
-      - item: Defi, NFT
+      - item: BAYC 7942, MAYC 12702, Otherdeed for Otherside 7942 and Azuki 7917 holder
         link:
 
-      - item: Writing
+      - item: ML/DL (NLP, CV, Generative AI)
         link:
 
-      - item: NLP
+      - item: Creator Economics
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Welcome to my page! I'm Giannis. Founder of YouTube Channel IM & multiple Web3 communities. I grew them to over 20k followers across different platforms. 
-    I built products at Binance.US and Crypto.com. I write articles and blogs to share my knowledge and insights on all things related to blockchain and new trends in tech industry.
+    Hello and welcome! I'm Giannis, a seasoned Product Manager with a specialty in Web3 products. I've honed my skills at leading cryptocurrency platforms like Binance.US and Crypto.com, where I've been instrumental in driving product innovation and revenue growth.
+
+    As the founder of the YouTube Channel IM and multiple Web3 communities, I've successfully grown a diverse and engaged audience of over 20,000 followers across various platforms. I'm passionate about sharing my knowledge and insights on blockchain technology and emerging trends in the tech industry through my articles and blogs.
+
+    With a proven track record in product discovery, strategy, and prioritization, I'm now seeking my next challenging role in product management. I'm excited to bring my expertise to a fast-paced, innovative team where I can continue to drive impactful user-facing products in the cryptocurrency space.
 
 education:
   title: Education
   info:
     - degree: BSSc in Economics
       university: The Chinese University of Hong Kong
-      time: 2014 - 2018
-      details:
+      time:
+      details: Top 5 University in Asia (U.S. News 2023)
 
 experiences:
   title: Experiences
   info:
     - role: Product Associate
       time: 2022 - Present
-      company: Binance.US, Vancouver BC
+      company: Binance.US | Vancouver BC
       details: |
 
-        - Product owner of Binance.US Crypto Domains, featuring Unstoppable Domain to support more than 120 tokens. Built the premium sales system and revamped the deposit and withdrawal resolution of centralized exchange. PRD technical API requirements – set API to communicate with blockchain, utilize API services from Unstoppable Domain. 
-        - Worked with Data Team to apply their different price-sensitivity classification algorithms for Crypto-Withdrawal to determine the withdrawal fees. Launched the model with A/B testing, leading to 120% increase in revenue with less than 1% change to user behavior. Increase annual revenue by $5M (projection).
-        - Product requirements for App NFT Wallet Page, Collection Page, Detail Page, Backend Portal to manage NFT minting, Sales Events. Revamped NFT database and infrastructures. Launched the CR7 NFT Collection, the first NFT sale at Binance.US and record over $130k revenue.
-        - App UI Revamp on Domain Name Service
+        - Drove new pricing algorithm for Crypto Withdrawal with applied ML mechanism. Launched the models with A/B test for a 155% increase in Crypto Withdrawal revenue ($6.5M) with less than 1% change of user behavior.  
+
+        - Initiated <a href="https://www.binance.us/crypto-domains" target="_blank" rel="nofollow">Binance.US' domain name service</a> as the product owner, featuring Unstoppable Domain to support more than 120 tokens. Recorded over $200k sales in the first event. 
+
+        - Enhanced user engagement by leading NFT infrastructures of the platform. Recorded over $100K sales revenue within 24 hours of the 1st primary sale event - <a href="https://www.binance.us/event/cristiano-ronaldo-nft" target="_blank" rel="nofollow">Binance.US x Cristiano Ronaldo CR7 NFT Collection</a>.  
+
+        - Built roadmaps to Defi Wallet initiation, the first exchange-integrated defi Wallet supported in the US. Supporting dApp marketplace, PoS Staking, and Defi Yield in a decentralized manner. 
+
+        - Revamped the UI/UX for crypto withdrawal & deposit by implementing event tracking to measure and track success metrics of key features, leading to a 50% increase in user engagement to key features.
 
     - role: Co-Founder
       time: 2019 - Present
       company: Metagenesis
       details: |
-        - Columnist for 5 popular media, including Yahoo Finance!, investing.com, etc. since June 2021. Covering on Blockchain
-        - Built roadmaps for more than 20 brands including 7/14/30 Days Launch Strategy, Product Transformation to Web3, Product Marketing, Web3 Community Management, Metaverse & IRL expo, etc. Advised and consulted 5 NFT projects that generated total revenue of US$2M+ in public sales.
-        - Provided technical solutions to Web2 companies and Creator Economics on Web3 projects for over 10 projects
+        - Chief of a team of 7. Drove community engagement by leading Web3, AI, and ESG product content generation and built brand name across <a href="https://www.youtube.com/@investmaneth" target="_blank" rel="nofollow">YouTube</a>, <a href="https://instagram.com/investman.eth" target="_blank" rel="nofollow">Instagram</a> & Discord, with 20,000+ followers. 
+
+        - Enhanced brand strategies by building roadmaps for over 20 brands, including Product Launch and Go-to-Market Strategy, resulting in 5 NFT & AI projects generating a total revenue of US$2M+ in public sales.
 
     - role: Product Operations Associate
       time: 2021 - 2022
-      company: Crypto.com, Vancouver BC/Hong Kong
+      company: Crypto.com | Vancouver BC/Hong Kong
       details: |
-        - Spearheaded from conception to launch of Project Loaded Lion (Crypto.com’s flagship NFT collection) by building product roadmaps from scratch, designing the structure of the DAO, and kicking off its derivatives, resulting in over $47M traded volume.
-        - Steered content moderation initiatives for Crypto.com NFT marketplace including content blacklisting, IP auto screening, and NFT copyright management systems that reduced 95% (US$3M+/per month) in company costs for NFT refunds.
+        - Boosted traded volume by spearheading Project <a href="https://crypto.com/nft/loaded-lions?lang=en" target="_blank" rel="nofollow">Loaded Lion</a> , building roadmaps and designing the community structure, resulting in over <a href="https://crypto.com/nft/collection/82421cf8e15df0edcaa200af752a344f?tab=items" target="_blank" rel="nofollow">$46M traded volume</a>  . 
+
+        - Reduced company costs by 95% by initiating content moderation for the NFT marketplace, translating to savings of over $2M/month. 
+
+        - Enhanced user experience by steering cross-chain NFT migration, reducing transaction failures by 80%. 
+
+        - Improved platform engagement by coordinating the listings of over 50 curated Collection drops, ensuring smooth launches and consistent user engagement.
 
     - role: Project Manager
       time: 2018 - 2021
-      company: 3 Rices Ltd. /Hong Kong
+      company: 3 Rices Ltd. | Hong Kong
       details: |
-        - Coordinated product consultancy projects between our B2B clients, external marketing & design studios, and internal engineering teams for 3 Rices Limited, a tech consultancy company with clients such as Hong Kong Hospital Authority, Education Bureau, Samsonite, Estee Lauder, and Philips.
-        - Defined product strategy and success metrics for our clients and conducted data instrumentation and analysis to ensure each client reaches its goals and objectives
+        - Streamlined digital projects by coordinating with B2B clients and internal teams, serving <a href="https://www.3rices.com/" target="_blank" rel="nofollow">high-profile clients</a> like Hong Kong Hospital Authority and Philips. 
 
+        - Enhanced client product strategies by designing and managing product roadmaps, ensuring each client met their specific goals and objectives.
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
